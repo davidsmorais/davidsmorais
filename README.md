@@ -123,9 +123,10 @@ NuxtJS	NuxtJS
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-[LinkedIn 💼](https://www.linkedin.com/in/dmorais92/)
-[Twitter 🐤](https://twitter.com/davidsmorais)
-[Mail 📤](mailto:david@davidmorais.com)  
+
+- [LinkedIn 💼](https://www.linkedin.com/in/dmorais92/)
+- [Twitter 🐤](https://twitter.com/davidsmorais)
+- [Mail 📤](mailto:david@davidmorais.com)  
 
 
 
