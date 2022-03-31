@@ -1,4 +1,48 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5616AQGBTCt8gYAlZA/profile-displaybackgroundimage-shrink_350_1400/0/1516924688244?e=1654128000&v=beta&t=uGAkaiqZ_Wz9Ga5-nW9_T8baSnS8ojoLsekg9w4isq0" alt="cover" />
+</div>
+
+# Hi there 👋
+
+  ### My name is David Morais. Thank You for taking the time to view my GitHub Profile :smile: 
+
+</p>
+
+
+## About me 👇
+
+🔭 I’m currently working on 
+  - [Epoch Rift 🟢](https://epochrift.com)
+  - [Kuro 🖤](https://github.com/davidsmorais/kuro/)
+  - [Pennylane 💼](https://www.pennylane.tech/)
+
+🌱 I’m currently learning
+  - [Ruby on Rails](https://rubyonrails.org/)
+  - [Stitches](https://stitches.dev/) 
+
+👯 I’m looking to collaborate on
+  - Tech Articles
+  - Testing Products
+  - Collaborate on Open Source projects 
+
+- 💬 Talk to me about
+  - React
+  - Javascript
+  - Freelance jobs 💸
+  - Electron
+  - Game Development
+  - Crypto / W3
+
+![Metrics](https://metrics.lecoq.io/davidsmorais?template=classic&config.timezone=America%2FToronto)
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+- [LinkedIn 💼](https://www.linkedin.com/in/dmorais92/)
+- [Twitter 🐤](https://twitter.com/davidsmorais)
+- [Mail 📤](mailto:david@davidmorais.com)  
+
+
 
 <!--
 **davidsmorais/davidsmorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -92,47 +136,6 @@ NuxtJS	NuxtJS
 ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
   ![Xrp](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
   
-</p>
-<div size='20px'> Hi! My name is David Morais. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-🔭 I’m currently working on 
-  - [Epoch Rift 🟢](https://epochrift.com)
-  - [Kuro 🖤](https://github.com/davidsmorais/kuro/)
-  - [Pennylane 💼](https://www.pennylane.tech/)
-
-🌱 I’m currently learning
-  - [Ruby on Rails](https://rubyonrails.org/)
-  - [Stitches](https://stitches.dev/) 
-
-👯 I’m looking to collaborate on
-  - Tech Articles
-  - Testing Products
-  - Collaborate on Open Source projects 
-
-- 💬 Talk to me about
-  - React
-  - Javascript
-  - Freelance jobs 💸
-  - Electron
-  - Game Development
-  - Crypto / W3
-
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
-- [LinkedIn 💼](https://www.linkedin.com/in/dmorais92/)
-- [Twitter 🐤](https://twitter.com/davidsmorais)
-- [Mail 📤](mailto:david@davidmorais.com)  
-
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/davidsmorais?template=classic&config.timezone=America%2FToronto)
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
