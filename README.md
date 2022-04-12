@@ -8,6 +8,7 @@
 
 </p>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=davidsmorais.davidsmorais)
 
 ## About me 👇
 
@@ -58,13 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C5616AQGBTCt8gYAlZA/profile-displaybackgroundimage-shrink_350_1400/0/1516924688244?e=1654128000&v=beta&t=uGAkaiqZ_Wz9Ga5-nW9_T8baSnS8ojoLsekg9w4isq0" alt="cover" />
-</div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
-  
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
   
   ---
@@ -78,7 +73,6 @@ Here are some ideas to get you started:
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   
   ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=davidsmorais.davidsmorais)
   
 ## Platforms
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
