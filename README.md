@@ -1,6 +1,5 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://images.unsplash.com/photo-1464802686167-b939a6910659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=center&w=935" alt="cover" />
-</div>
+
+
 
 # Hi there 👋
 
@@ -22,7 +21,6 @@
 ## About me 👇
 
 🔭 I’m currently working on 
-  - [Epoch Rift 🟢](https://epochrift.com)
   - [Kuro 🖤](https://github.com/davidsmorais/kuro/)
   - [Pennylane 💼](https://www.pennylane.tech/)
 
@@ -33,7 +31,7 @@
 
 - 💬 Talk to me about
   - React
-  - Javascript
+  - Javascript / Typescript 
   - Freelance jobs 💸
   - Electron
   - Game Development
